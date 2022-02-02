@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SimpleTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-02-02T07:30:11" hostname="dell-Latitude-E7470" time="0.04">
+  <properties/>
+  <testcase name="EvenSumTest()" classname="SimpleTest" time="0.034"/>
+  <testcase name="OddSumTest()" classname="SimpleTest" time="0.001"/>
+  <testcase name="MainTest()" classname="SimpleTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
